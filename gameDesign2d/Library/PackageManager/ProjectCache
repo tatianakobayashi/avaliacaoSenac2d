@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638005236096901083
-    m_Hash: 663939576
+      ticks: 638005253558219275
+    m_Hash: 1472552103
   m_LockFileStatus:
     m_FilePath: C:/Users/horlab306/Documents/Unity/Tatiana/avaliacaoSenac2d/gameDesign2d/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638005236431954239
-    m_Hash: 2575681353
+      ticks: 638005253558219275
+    m_Hash: 1119924275
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
